@@ -480,8 +480,3 @@ variable "description_of_lan_connectivty_policy_fi_attached" {
 # Server Profiles
 variable "name_of_server_profiles" {
 }
-<<<<<<< HEAD
-
-
-=======
->>>>>>> e158a2507ce05d24b25adce4c5d3795e509c609e
